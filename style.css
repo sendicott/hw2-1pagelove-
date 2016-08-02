@@ -89,7 +89,7 @@ body {
   text-decoration: none;
   color: #000;
   font-size: 88px;
-  style: inline-block;
+  display: inline-block;
   margin: 20px;
   cursor: hand;
 }
@@ -102,7 +102,8 @@ body {
 #box3 {
   background-color: #000;
   margin: 0px auto;
-  width: 80%;
+  width: 100%;
+  padding-left: 15%;
 }
 
 #box3 p {
@@ -123,26 +124,29 @@ body {
 }
 
 #sensation {
-  text-align: center;
+  text-align: left;
   font-size: 110px;
-  width: 100%;
+  width: 90%;
   margin: 0px;
+  letter-spacing: -5px;
 }
 
 #nyt {
-  margin-left: 15%;
   margin-top: 0px;
 }
 
 .half {
     display: inline-block;
-    width: 45%;
+    width: 35%;
     vertical-align: top;
 }
 
 #fast {
     font-size: 65px;
     letter-spacing: -5px;
+}
+
+#sanfran {
 }
 
 #beautiful {
@@ -162,6 +166,8 @@ body {
 /* Section 4 */
 
 #box4 {
+    margin: 0px auto;
+    width: 100%;
     background-color: #ffc800;
 }
 

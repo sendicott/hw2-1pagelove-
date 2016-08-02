@@ -146,9 +146,6 @@ body {
     letter-spacing: -5px;
 }
 
-#sanfran {
-}
-
 #beautiful {
     font-size: 65px;
     letter-spacing: -5px;
@@ -169,6 +166,7 @@ body {
     margin: 0px auto;
     width: 100%;
     background-color: #ffc800;
+    padding-left: 15%;
 }
 
 .italics {
@@ -178,9 +176,26 @@ body {
 .full h2 {
     font-family: "Knockout 67 A", "Knockout 67 B", Helvetica, Arial, sans-serif;
     font-size: 25px;
+    text-transform: uppercase;
 }
 
 .full p {
     font-family: "Sina Nova", Georgia, Times, serif;
     font-size: 18px;
+}
+
+#box4 #exp {
+  padding-top: 20px;
+  line-height: 25px;
+  padding-left: 13%;
+}
+
+#remark {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#box4 .half {
+  vertical-align: middle;
+  margin: 20px 0;
 }

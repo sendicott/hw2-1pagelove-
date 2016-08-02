@@ -1,0 +1,180 @@
+body {
+  margin: 0px 0px;
+  background-color: #000;
+}
+
+/* Section 1 */
+#box1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+#box1 h1 {
+  font-size: 88px;
+  font-family: "Knockout 67 A", "Knockout 67 B", Helvetica, Arial, Sans-Serif;
+  line-height: 88px;
+  letter-spacing: 8.8px;
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+
+#p1 {
+  font-family: "Sina Nova", Georgia, Times, serif;
+  font-size: 20px;
+  line-height: 27.51px;
+  margin-bottom: 50px;
+}
+
+#p2 {
+  text-transform: uppercase;
+  font-family: "Sina Nova", Georgia, Times, serif;
+}
+
+.button {
+  border-style: solid;
+  padding: 1rem 2rem;
+  display: inline-block;
+  text-transform: uppercase;
+  border-color: #AF9664;
+  color: #AF9664;
+  text-decoration: none;
+}
+
+#box1 .button:hover {
+  background-color: #AF9664;
+  color: white;
+}
+
+/* Section 2 */
+
+#box2 {
+  background-color: #ffc800;
+  text-align: center;
+}
+
+#box2 h1 {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  padding: 15px 15px 20px 0px;
+  font-family: "Sina Nova", Georgia, Times, serif;
+  font-size: 32px;
+  line-height: 36px;
+}
+
+#p3 {
+  text-transform: uppercase;
+  font-size: 5.5rem;
+  font-family: "Knockout 67 A", "Knockout 67 B", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  letter-spacing: -5px;
+}
+
+#p4 {
+  display: inline-block;
+  background-color: #000;
+  color: #fff;
+  padding: 10px 400px;
+  font-family: "Knockout 67 A", "Knockout 67 B", Helvetica, Arial, sans-serif;
+  font-size: 36px;
+}
+
+#p5 {
+  font-family: "Sina Nova", Georgia, Times, serif;
+  font-size: 20px;
+}
+#box2 a {
+  text-decoration: none;
+  color: #000;
+  font-size: 88px;
+  style: inline-block;
+  margin: 20px;
+  cursor: hand;
+}
+
+#box2 a:hover {
+  opacity: 0.6;
+}
+
+/* Section 3 */
+#box3 {
+  background-color: #000;
+  margin: 0px auto;
+  width: 80%;
+}
+
+#box3 p {
+  color: white;
+}
+
+#box3 .quote {
+  font-family: "Knockout 67 A", "Knockout 67 B", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  vertical-align: top;
+  margin: 5px;
+}
+
+#box3 .critic {
+  font-style: italic;
+  font-family: "Sina Nova", Georgia, Times, serif;
+  font-size: 20px;
+}
+
+#sensation {
+  text-align: center;
+  font-size: 110px;
+  width: 100%;
+  margin: 0px;
+}
+
+#nyt {
+  margin-left: 15%;
+  margin-top: 0px;
+}
+
+.half {
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+}
+
+#fast {
+    font-size: 65px;
+    letter-spacing: -5px;
+}
+
+#beautiful {
+    font-size: 65px;
+    letter-spacing: -5px;
+}
+
+#high {
+    font-size: 65px;
+    letter-spacing: -5px;
+}
+
+.highlight {
+    color: yellow;
+}
+
+/* Section 4 */
+
+#box4 {
+    background-color: #ffc800;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.full h2 {
+    font-family: "Knockout 67 A", "Knockout 67 B", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+}
+
+.full p {
+    font-family: "Sina Nova", Georgia, Times, serif;
+    font-size: 18px;
+}

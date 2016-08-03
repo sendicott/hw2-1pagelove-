@@ -208,3 +208,10 @@ body {
 #magik a:hover {
   opacity: 0.6;
 }
+
+#p6 {
+  font-style: italic;
+  padding-left: 15%;
+  padding-bottom: 60px;
+  font-size: 18px;
+}
